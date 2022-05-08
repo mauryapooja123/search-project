@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "name": "neha",
+      "email": "sai@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "jyoti",
+      "email": "saiggg@gmail.com"
+    },
+
+    {
+      "id": "5",
+      "name": "rahul",
+      "email": "pooja@123.com"
+    }
+  ]
+}
